@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any programming an computer services
 - 📫 How to reach me  email sitagiddy@gmail.com
-- 😄 Pronouns: the current world full of  AI and ROBOTIC revolution.
-- ⚡ Fun fact: welcome
+-  the current world full of  AI and ROBOTIC revolution.
+- ⚡ welcome
 
 <!---
 giddy-cyber/giddy-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
